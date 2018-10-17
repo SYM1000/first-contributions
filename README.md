@@ -73,6 +73,9 @@ Now clone the forked repo to your machine. Go to your GitHub account, open the f
 
 Open a terminal and run the following git command:
 
+*how to open terminal: mac: cmd + [space] and type termianl
+                       windows: start button/all programs/Command Prompt
+
 ```
 git clone "url you just copied"
 ```
